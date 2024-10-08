@@ -1,1 +1,1 @@
-# RAG-Application-Q-A-on-Brain-Computer-Interface
+# RAG-Application-for-Brain-Computer-Interface
