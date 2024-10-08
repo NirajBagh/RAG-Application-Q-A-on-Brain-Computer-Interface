@@ -12,5 +12,6 @@ py -m venv venv
 pip install -r requirements.txt
 # Step 04- Create a .env file in the root directory and add your Pinecone & openai credentials as follows:
 PINECONE_API_KEY = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+
 OPENAI_API_KEY = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 # Step 05- Run the RAG application using following command:
